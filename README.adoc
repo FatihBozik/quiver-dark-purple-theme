@@ -1,0 +1,18 @@
+= Quiver Dark Purple Theme
+
+Dark theme for http://happenapps.com/#quiver[Quiver] based on JetBrains' https://plugins.jetbrains.com/plugin/12100-dark-purple-theme[Dark Purple Theme].
+
+.Preview
+image::preview.png[Dark Purple Theme]
+
+== Installation
+
+1. Download `Dark Purple.json`
+2. Open Quiver
+3. Preferences -> Themes -> Load Theme...
+4. Choose json file
+
+== Useful Links
+
+- https://github.com/HappenApps/Quiver/wiki/Themes
+- https://github.com/HappenApps/Quiver/wiki/How-to-Design-a-Custom-Theme
