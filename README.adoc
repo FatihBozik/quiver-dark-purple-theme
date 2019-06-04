@@ -7,7 +7,7 @@ image::preview.png[Dark Purple Theme]
 
 == Installation
 
-1. Download `Dark Purple.json`
+1. Download https://raw.githubusercontent.com/FatihBozik/quiver-dark-purple-theme/master/Dark%20Purple.json?token=ABBKUP7JIU2D7UMHZRV6V4C477MHS[Dark Purple.json]
 2. Open Quiver
 3. Preferences -> Themes -> Load Theme...
 4. Choose json file
