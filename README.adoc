@@ -1,5 +1,7 @@
 = Quiver Dark Purple Theme
 
+image:https://img.shields.io/github/license/FatihBozik/quiver-dark-purple-theme?style=flat-square[Licence, link=https://github.com/FatihBozik/quiver-dark-purple-theme/blob/master/LICENSE]
+
 Dark theme for http://happenapps.com/#quiver[Quiver] based on JetBrains' https://plugins.jetbrains.com/plugin/12100-dark-purple-theme[Dark Purple Theme].
 
 .Preview
